@@ -2,7 +2,7 @@
 
 ## Task2
 
-1. <ul><li>- [x] CloudFront URL  <a href= target=https://d251xi5ir65z4r.cloudfront.net/ target=_blank>URL</a></li></ul>
+1. <ul><li>- [x] CloudFront URL  <a href= https://d251xi5ir65z4r.cloudfront.net/ target=_blank>URL</a></li></ul>
 2. <ul><li>- [x] S3-website (403 Access Denied error) <a href=https://my-store-app-lauramos.s3.eu-west-1.amazonaws.com/index.html target=_blank>URL</a></li></ul>
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
